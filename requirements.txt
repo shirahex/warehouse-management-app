@@ -2,4 +2,8 @@ streamlit
 ultralytics
 Pillow
 opencv-python-headless
+numpy
+pandas
 plotly
+streamlit-option-menu
+streamlit-extras
