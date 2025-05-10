@@ -1,0 +1,76 @@
+{
+    "confidence_thresh": 0.25,
+    "iou_thresh": 0.45,
+    "expected_count": 0,
+    "enable_pairwise_overhang": true,
+    "pairwise_max_overhang": 0.25,
+    "pairwise_vertical_prox": 10,
+    "enable_advanced_stack_analysis": true,
+    "max_stack_height": 5,
+    "stack_vertical_prox": 10,
+    "stack_align_thresh_ratio": 0.15,
+    "enable_zone_counting": false,
+    "defined_zones": [
+        {
+            "name": "Zone 1",
+            "coords": [
+                0,
+                0,
+                100,
+                100
+            ],
+            "defined": false,
+            "count": 0,
+            "color": "#0066cc"
+        },
+        {
+            "name": "Zone 2",
+            "coords": [
+                0,
+                0,
+                100,
+                100
+            ],
+            "defined": false,
+            "count": 0,
+            "color": "#6c757d"
+        },
+        {
+            "name": "Zone 3",
+            "coords": [
+                0,
+                0,
+                100,
+                100
+            ],
+            "defined": false,
+            "count": 0,
+            "color": "#10b981"
+        },
+        {
+            "name": "Zone 4",
+            "coords": [
+                0,
+                0,
+                100,
+                100
+            ],
+            "defined": false,
+            "count": 0,
+            "color": "#ff9800"
+        },
+        {
+            "name": "Zone 5",
+            "coords": [
+                0,
+                0,
+                100,
+                100
+            ],
+            "defined": false,
+            "count": 0,
+            "color": "#dc3545"
+        }
+    ],
+    "dark_mode": false
+}
