@@ -2,3 +2,4 @@ streamlit
 ultralytics
 Pillow
 opencv-python-headless
+plotly
