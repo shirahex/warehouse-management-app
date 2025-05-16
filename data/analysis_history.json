@@ -1,5 +1,599 @@
 [
     {
+        "image_filename": "upload_20250512135053.png",
+        "timestamp": "2025-05-12 13:50:53.982473",
+        "detected_count": 10,
+        "boxes_data": [
+            {
+                "xyxy": [
+                    979.8351440429688,
+                    791.7095947265625,
+                    1441.397705078125,
+                    1334.451171875
+                ],
+                "confidence": 0.9296875596046448,
+                "id": 0,
+                "class_id": 0,
+                "center_x": "1210.6165",
+                "center_y": "1063.0803",
+                "width": "461.56256",
+                "height": "542.7416",
+                "used_in_stack": true,
+                "area": "250509.19",
+                "aspect_ratio": "0.85042787"
+            },
+            {
+                "xyxy": [
+                    120.45195007324219,
+                    841.7166137695312,
+                    796.7678833007812,
+                    1354.3529052734375
+                ],
+                "confidence": 0.9288597702980042,
+                "id": 1,
+                "class_id": 0,
+                "center_x": "458.60992",
+                "center_y": "1098.0348",
+                "width": "676.3159",
+                "height": "512.6363",
+                "used_in_stack": true,
+                "area": "346704.1",
+                "aspect_ratio": "1.3192899"
+            },
+            {
+                "xyxy": [
+                    780.7286987304688,
+                    67.8069839477539,
+                    1148.476806640625,
+                    527.9910888671875
+                ],
+                "confidence": 0.9285252094268799,
+                "id": 2,
+                "class_id": 0,
+                "center_x": "964.6028",
+                "center_y": "297.89905",
+                "width": "367.7481",
+                "height": "460.1841",
+                "used_in_stack": true,
+                "area": "169231.84",
+                "aspect_ratio": "0.7991326"
+            },
+            {
+                "xyxy": [
+                    489.0487365722656,
+                    197.2698974609375,
+                    943.4263916015625,
+                    577.8488159179688
+                ],
+                "confidence": 0.920301079750061,
+                "id": 3,
+                "class_id": 0,
+                "center_x": "716.23755",
+                "center_y": "387.55936",
+                "width": "454.37766",
+                "height": "380.57892",
+                "used_in_stack": true,
+                "area": "172926.56",
+                "aspect_ratio": "1.1939118"
+            },
+            {
+                "xyxy": [
+                    1430.657470703125,
+                    976.3908081054688,
+                    1925.794189453125,
+                    1218.3638916015625
+                ],
+                "confidence": 0.7139154672622681,
+                "id": 4,
+                "class_id": 0,
+                "center_x": "1678.2258",
+                "center_y": "1097.3773",
+                "width": "495.13672",
+                "height": "241.97308",
+                "used_in_stack": true,
+                "area": "119809.76",
+                "aspect_ratio": "2.046247"
+            },
+            {
+                "xyxy": [
+                    1210.6475830078125,
+                    328.376708984375,
+                    1562.7479248046875,
+                    536.9630126953125
+                ],
+                "confidence": 0.6347061395645142,
+                "id": 5,
+                "class_id": 0,
+                "center_x": "1386.6978",
+                "center_y": "432.66986",
+                "width": "352.10034",
+                "height": "208.5863",
+                "used_in_stack": true,
+                "area": "73443.31",
+                "aspect_ratio": "1.6880319"
+            },
+            {
+                "xyxy": [
+                    347.40936279296875,
+                    499.6357421875,
+                    1371.4381103515625,
+                    956.5213012695312
+                ],
+                "confidence": 0.6303938627243042,
+                "id": 6,
+                "class_id": 0,
+                "center_x": "859.4237",
+                "center_y": "728.0785",
+                "width": "1024.0288",
+                "height": "456.88556",
+                "used_in_stack": true,
+                "area": "467863.97",
+                "aspect_ratio": "2.2413244"
+            },
+            {
+                "xyxy": [
+                    779.1661987304688,
+                    892.9508666992188,
+                    991.1060791015625,
+                    1220.7667236328125
+                ],
+                "confidence": 0.6007020473480225,
+                "id": 7,
+                "class_id": 0,
+                "center_x": "885.1361",
+                "center_y": "1056.8588",
+                "width": "211.93988",
+                "height": "327.81586",
+                "used_in_stack": true,
+                "area": "69477.25",
+                "aspect_ratio": "0.64652115"
+            },
+            {
+                "xyxy": [
+                    1355.5621337890625,
+                    530.7340087890625,
+                    1798.674560546875,
+                    849.1904296875
+                ],
+                "confidence": 0.5493407249450684,
+                "id": 8,
+                "class_id": 0,
+                "center_x": "1577.1184",
+                "center_y": "689.9622",
+                "width": "443.11243",
+                "height": "318.45642",
+                "used_in_stack": true,
+                "area": "141112.0",
+                "aspect_ratio": "1.3914382"
+            },
+            {
+                "xyxy": [
+                    1605.908935546875,
+                    836.2887573242188,
+                    1924.178466796875,
+                    980.52001953125
+                ],
+                "confidence": 0.3570021390914917,
+                "id": 9,
+                "class_id": 0,
+                "center_x": "1765.0437",
+                "center_y": "908.4044",
+                "width": "318.26953",
+                "height": "144.23126",
+                "used_in_stack": true,
+                "area": "45904.418",
+                "aspect_ratio": "2.2066612"
+            }
+        ],
+        "pairwise_issues": [
+            "Box 5 overhangs Box 8 on the left by ~144px (32%)."
+        ],
+        "pairwise_overhang_ids": [
+            8,
+            5
+        ],
+        "stacks_data": [
+            {
+                "id": 0,
+                "boxes": [
+                    {
+                        "xyxy": [
+                            780.7286987304688,
+                            67.8069839477539,
+                            1148.476806640625,
+                            527.9910888671875
+                        ],
+                        "confidence": 0.9285252094268799,
+                        "id": 2,
+                        "class_id": 0,
+                        "center_x": "964.6028",
+                        "center_y": "297.89905",
+                        "width": "367.7481",
+                        "height": "460.1841",
+                        "used_in_stack": true,
+                        "area": "169231.84",
+                        "aspect_ratio": "0.7991326"
+                    }
+                ],
+                "num_boxes": 1,
+                "base_width": "367.7481",
+                "base_height": "460.1841",
+                "base_area": "169231.84",
+                "total_height": "460.1841",
+                "avg_box_size": "169231.84",
+                "height_compliant": true,
+                "deviation_points": [],
+                "avg_dev_ratio": 0,
+                "alignment_issues": 0,
+                "alignment_quality": "N/A",
+                "alignment_score": 100,
+                "max_deviation_ratio": 0,
+                "overall_status": "OK",
+                "stability_score": 100.0
+            },
+            {
+                "id": 1,
+                "boxes": [
+                    {
+                        "xyxy": [
+                            1210.6475830078125,
+                            328.376708984375,
+                            1562.7479248046875,
+                            536.9630126953125
+                        ],
+                        "confidence": 0.6347061395645142,
+                        "id": 5,
+                        "class_id": 0,
+                        "center_x": "1386.6978",
+                        "center_y": "432.66986",
+                        "width": "352.10034",
+                        "height": "208.5863",
+                        "used_in_stack": true,
+                        "area": "73443.31",
+                        "aspect_ratio": "1.6880319"
+                    }
+                ],
+                "num_boxes": 1,
+                "base_width": "352.10034",
+                "base_height": "208.5863",
+                "base_area": "73443.31",
+                "total_height": "208.5863",
+                "avg_box_size": "73443.31",
+                "height_compliant": true,
+                "deviation_points": [],
+                "avg_dev_ratio": 0,
+                "alignment_issues": 0,
+                "alignment_quality": "N/A",
+                "alignment_score": 100,
+                "max_deviation_ratio": 0,
+                "overall_status": "OK",
+                "stability_score": 100.0
+            },
+            {
+                "id": 2,
+                "boxes": [
+                    {
+                        "xyxy": [
+                            489.0487365722656,
+                            197.2698974609375,
+                            943.4263916015625,
+                            577.8488159179688
+                        ],
+                        "confidence": 0.920301079750061,
+                        "id": 3,
+                        "class_id": 0,
+                        "center_x": "716.23755",
+                        "center_y": "387.55936",
+                        "width": "454.37766",
+                        "height": "380.57892",
+                        "used_in_stack": true,
+                        "area": "172926.56",
+                        "aspect_ratio": "1.1939118"
+                    }
+                ],
+                "num_boxes": 1,
+                "base_width": "454.37766",
+                "base_height": "380.57892",
+                "base_area": "172926.56",
+                "total_height": "380.57892",
+                "avg_box_size": "172926.56",
+                "height_compliant": true,
+                "deviation_points": [],
+                "avg_dev_ratio": 0,
+                "alignment_issues": 0,
+                "alignment_quality": "N/A",
+                "alignment_score": 100,
+                "max_deviation_ratio": 0,
+                "overall_status": "OK",
+                "stability_score": 100.0
+            },
+            {
+                "id": 3,
+                "boxes": [
+                    {
+                        "xyxy": [
+                            1355.5621337890625,
+                            530.7340087890625,
+                            1798.674560546875,
+                            849.1904296875
+                        ],
+                        "confidence": 0.5493407249450684,
+                        "id": 8,
+                        "class_id": 0,
+                        "center_x": "1577.1184",
+                        "center_y": "689.9622",
+                        "width": "443.11243",
+                        "height": "318.45642",
+                        "used_in_stack": true,
+                        "area": "141112.0",
+                        "aspect_ratio": "1.3914382"
+                    }
+                ],
+                "num_boxes": 1,
+                "base_width": "443.11243",
+                "base_height": "318.45642",
+                "base_area": "141112.0",
+                "total_height": "318.45642",
+                "avg_box_size": "141112.0",
+                "height_compliant": true,
+                "deviation_points": [],
+                "avg_dev_ratio": 0,
+                "alignment_issues": 0,
+                "alignment_quality": "N/A",
+                "alignment_score": 100,
+                "max_deviation_ratio": 0,
+                "overall_status": "OK",
+                "stability_score": 100.0
+            },
+            {
+                "id": 4,
+                "boxes": [
+                    {
+                        "xyxy": [
+                            347.40936279296875,
+                            499.6357421875,
+                            1371.4381103515625,
+                            956.5213012695312
+                        ],
+                        "confidence": 0.6303938627243042,
+                        "id": 6,
+                        "class_id": 0,
+                        "center_x": "859.4237",
+                        "center_y": "728.0785",
+                        "width": "1024.0288",
+                        "height": "456.88556",
+                        "used_in_stack": true,
+                        "area": "467863.97",
+                        "aspect_ratio": "2.2413244"
+                    }
+                ],
+                "num_boxes": 1,
+                "base_width": "1024.0288",
+                "base_height": "456.88556",
+                "base_area": "467863.97",
+                "total_height": "456.88556",
+                "avg_box_size": "467863.97",
+                "height_compliant": true,
+                "deviation_points": [],
+                "avg_dev_ratio": 0,
+                "alignment_issues": 0,
+                "alignment_quality": "N/A",
+                "alignment_score": 100,
+                "max_deviation_ratio": 0,
+                "overall_status": "OK",
+                "stability_score": 100.0
+            },
+            {
+                "id": 5,
+                "boxes": [
+                    {
+                        "xyxy": [
+                            1605.908935546875,
+                            836.2887573242188,
+                            1924.178466796875,
+                            980.52001953125
+                        ],
+                        "confidence": 0.3570021390914917,
+                        "id": 9,
+                        "class_id": 0,
+                        "center_x": "1765.0437",
+                        "center_y": "908.4044",
+                        "width": "318.26953",
+                        "height": "144.23126",
+                        "used_in_stack": true,
+                        "area": "45904.418",
+                        "aspect_ratio": "2.2066612"
+                    }
+                ],
+                "num_boxes": 1,
+                "base_width": "318.26953",
+                "base_height": "144.23126",
+                "base_area": "45904.418",
+                "total_height": "144.23126",
+                "avg_box_size": "45904.418",
+                "height_compliant": true,
+                "deviation_points": [],
+                "avg_dev_ratio": 0,
+                "alignment_issues": 0,
+                "alignment_quality": "N/A",
+                "alignment_score": 100,
+                "max_deviation_ratio": 0,
+                "overall_status": "OK",
+                "stability_score": 100.0
+            },
+            {
+                "id": 6,
+                "boxes": [
+                    {
+                        "xyxy": [
+                            1430.657470703125,
+                            976.3908081054688,
+                            1925.794189453125,
+                            1218.3638916015625
+                        ],
+                        "confidence": 0.7139154672622681,
+                        "id": 4,
+                        "class_id": 0,
+                        "center_x": "1678.2258",
+                        "center_y": "1097.3773",
+                        "width": "495.13672",
+                        "height": "241.97308",
+                        "used_in_stack": true,
+                        "area": "119809.76",
+                        "aspect_ratio": "2.046247"
+                    }
+                ],
+                "num_boxes": 1,
+                "base_width": "495.13672",
+                "base_height": "241.97308",
+                "base_area": "119809.76",
+                "total_height": "241.97308",
+                "avg_box_size": "119809.76",
+                "height_compliant": true,
+                "deviation_points": [],
+                "avg_dev_ratio": 0,
+                "alignment_issues": 0,
+                "alignment_quality": "N/A",
+                "alignment_score": 100,
+                "max_deviation_ratio": 0,
+                "overall_status": "OK",
+                "stability_score": 100.0
+            },
+            {
+                "id": 7,
+                "boxes": [
+                    {
+                        "xyxy": [
+                            779.1661987304688,
+                            892.9508666992188,
+                            991.1060791015625,
+                            1220.7667236328125
+                        ],
+                        "confidence": 0.6007020473480225,
+                        "id": 7,
+                        "class_id": 0,
+                        "center_x": "885.1361",
+                        "center_y": "1056.8588",
+                        "width": "211.93988",
+                        "height": "327.81586",
+                        "used_in_stack": true,
+                        "area": "69477.25",
+                        "aspect_ratio": "0.64652115"
+                    }
+                ],
+                "num_boxes": 1,
+                "base_width": "211.93988",
+                "base_height": "327.81586",
+                "base_area": "69477.25",
+                "total_height": "327.81586",
+                "avg_box_size": "69477.25",
+                "height_compliant": true,
+                "deviation_points": [],
+                "avg_dev_ratio": 0,
+                "alignment_issues": 0,
+                "alignment_quality": "N/A",
+                "alignment_score": 100,
+                "max_deviation_ratio": 0,
+                "overall_status": "OK",
+                "stability_score": 100.0
+            },
+            {
+                "id": 8,
+                "boxes": [
+                    {
+                        "xyxy": [
+                            979.8351440429688,
+                            791.7095947265625,
+                            1441.397705078125,
+                            1334.451171875
+                        ],
+                        "confidence": 0.9296875596046448,
+                        "id": 0,
+                        "class_id": 0,
+                        "center_x": "1210.6165",
+                        "center_y": "1063.0803",
+                        "width": "461.56256",
+                        "height": "542.7416",
+                        "used_in_stack": true,
+                        "area": "250509.19",
+                        "aspect_ratio": "0.85042787"
+                    }
+                ],
+                "num_boxes": 1,
+                "base_width": "461.56256",
+                "base_height": "542.7416",
+                "base_area": "250509.19",
+                "total_height": "542.7416",
+                "avg_box_size": "250509.19",
+                "height_compliant": true,
+                "deviation_points": [],
+                "avg_dev_ratio": 0,
+                "alignment_issues": 0,
+                "alignment_quality": "N/A",
+                "alignment_score": 100,
+                "max_deviation_ratio": 0,
+                "overall_status": "OK",
+                "stability_score": 100.0
+            },
+            {
+                "id": 9,
+                "boxes": [
+                    {
+                        "xyxy": [
+                            120.45195007324219,
+                            841.7166137695312,
+                            796.7678833007812,
+                            1354.3529052734375
+                        ],
+                        "confidence": 0.9288597702980042,
+                        "id": 1,
+                        "class_id": 0,
+                        "center_x": "458.60992",
+                        "center_y": "1098.0348",
+                        "width": "676.3159",
+                        "height": "512.6363",
+                        "used_in_stack": true,
+                        "area": "346704.1",
+                        "aspect_ratio": "1.3192899"
+                    }
+                ],
+                "num_boxes": 1,
+                "base_width": "676.3159",
+                "base_height": "512.6363",
+                "base_area": "346704.1",
+                "total_height": "512.6363",
+                "avg_box_size": "346704.1",
+                "height_compliant": true,
+                "deviation_points": [],
+                "avg_dev_ratio": 0,
+                "alignment_issues": 0,
+                "alignment_quality": "N/A",
+                "alignment_score": 100,
+                "max_deviation_ratio": 0,
+                "overall_status": "OK",
+                "stability_score": 100.0
+            }
+        ],
+        "zones_with_counts": [],
+        "compliance_score": 95,
+        "processing_time_detection": 5.719691514968872,
+        "processing_time_analysis": 0.0009975433349609375,
+        "settings_snapshot": {
+            "confidence_thresh": 0.25,
+            "iou_thresh": 0.45,
+            "expected_count": 0,
+            "enable_pairwise_overhang": true,
+            "pairwise_max_overhang": 0.25,
+            "pairwise_vertical_prox": 10,
+            "enable_advanced_stack_analysis": true,
+            "max_stack_height": 5,
+            "stack_vertical_prox": 10,
+            "stack_align_thresh_ratio": 0.15,
+            "enable_zone_counting": false,
+            "defined_zones_snapshot": []
+        }
+    },
+    {
         "image_filename": "upload_20250509124233.png",
         "timestamp": "2025-05-09 12:42:33.973117",
         "detected_count": 10,

@@ -1,3 +1,20 @@
+# This file is part of the Warehouse Management App.
+#
+# Copyright (C) 2025 MAROUANE DAOUKI
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
 import streamlit as st
 
 # --- Page Config (MUST BE THE FIRST STREAMLIT COMMAND) ---
@@ -155,7 +172,7 @@ def load_custom_css():
         .status-error {{ background-color: rgba(220,53,69,0.15); color: {THEME["danger"]}; }}
         /* ... rest of your CSS ... */
     </style>""", unsafe_allow_html=True)
-# --- Helper Functions (largely unchanged, ensure they are correct from previous versions) ---
+
 def initialize_session_state():
     defaults = {
         'confidence_thresh': 0.25, 'iou_thresh': 0.45, 'expected_count': 0,
@@ -435,12 +452,10 @@ def display_dashboard():
     with c2: st.metric("Avg Compliance", f"{avg_compliance:.1f}%")
     with c3: st.metric("Low Compliance (Last 10)", low_compliance_runs, help="Runs <70% compliance.")
     
-    # Only supported arguments for style_metric_cards
     style_metric_cards(border_left_color=THEME["primary"]) 
     
     add_vertical_space(2)
     st.subheader("📊 Performance Trends")
-    # ... (rest of the dashboard function remains the same as the previously corrected version) ...
     t1, t2, t3 = st.tabs(["Compliance", "Detections", "Processing Time"])
     
     if not history: return 
@@ -678,8 +693,6 @@ def main():
         except Exception as e: st.session_state.analysis_history = []; st.error(f"Error loading history: {e}")
 
     model = load_yolo_model(MODEL_PATH)
-    # if model is None: st.sidebar.error("YOLO Model FAILED to load.") # Error shown in load_yolo_model
-    # else: st.sidebar.success(f"Model '{Path(MODEL_PATH).name}' loaded.") # Can be noisy
 
     with st.sidebar:
         st.markdown(f"<h1 style='text-align: center; color: {THEME['primary']};'>📦 Carton Analyzer</h1>", unsafe_allow_html=True)

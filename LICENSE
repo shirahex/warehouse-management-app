@@ -1,0 +1,35 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (C) 2025 MAROUANE DAOUKI
+
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+---
+
+## TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+The full GPLv3 license text is lengthy. You can include the complete license in this file, or refer users to the official site:
+
+**Official License:** https://www.gnu.org/licenses/gpl-3.0.en.html
+
+To comply fully, it's recommended to either:
+1. Paste the complete GPLv3 license text into this file, or
+2. Include a `COPYING` file with the full text, and link to it here.
+
+You must also add the following boilerplate to the top of each source file:
+
