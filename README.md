@@ -36,8 +36,8 @@ This application is part of the `warehouse-management-app` repository.
 
 ## 📸 Screenshots
 
-<!-- Add your actual screenshot or GIF here -->
-*Replace this with a screenshot or GIF of your application in action (e.g., the dashboard or analysis page).*
+![image](https://github.com/user-attachments/assets/90f9a80c-6987-4edf-881e-92d7a902b472)
+
 
 ## 🛠️ Tech Stack
 
