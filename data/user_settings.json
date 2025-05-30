@@ -1,7 +1,7 @@
 {
     "confidence_thresh": 0.25,
     "iou_thresh": 0.45,
-    "expected_count": 0,
+    "expected_count": 8,
     "enable_pairwise_overhang": true,
     "pairwise_max_overhang": 0.25,
     "pairwise_vertical_prox": 10,
