@@ -38,6 +38,9 @@ This application is part of the `warehouse-management-app` repository.
 ![image](https://github.com/user-attachments/assets/90f9a80c-6987-4edf-881e-92d7a902b472)
 
 
+
+<img src="demo.webp" alt="Warehouse Management Demo" width="800">
+
 ## 🛠️ Tech Stack
 
 * **Backend/ML:**
