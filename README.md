@@ -32,6 +32,9 @@ This application is part of the `warehouse-management-app` repository.
   * Zone definitions (name, coordinates, color).
 * **Settings Persistence:** User settings and analysis history are saved locally in JSON files within the `data/` directory.
 * **Custom Theming:** Includes custom CSS for a polished look and feel.
+## 📄 Documentation 
+* **[Project Report](docs/RapportTechnique.pdf)** - Comprehensive analysis and documentation 
+* **[Technical Specifications](docs/RapportTechnique.pdf)** - Detailed technical information
 
 ## 📸 Screenshots
 
